@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8e6c3f8-659e-4cea-914c-236449b6fdf2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Utilisateur\WebstormProjects\MesNotes\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Whu9HU4ZsrgdxhrCVhy9r8RGEa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Utilisateur\Desktop\untitled1\MesNotes\css" />
+      <recent name="C:\Users\Utilisateur\WebstormProjects\MesNotes\typescript" />
+      <recent name="C:\Users\Utilisateur\WebstormProjects\MesNotes\javascript" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8e6c3f8-659e-4cea-914c-236449b6fdf2" name="Default Changelist" comment="" />
+      <created>1579613994576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579613994576</updated>
+      <workItem from="1579613995668" duration="1654000" />
+      <workItem from="1579615669461" duration="4139000" />
+      <workItem from="1579684299668" duration="21277000" />
+      <workItem from="1579782866225" duration="806000" />
+      <workItem from="1579783688690" duration="199000" />
+      <workItem from="1579784819641" duration="666000" />
+      <workItem from="1579785518065" duration="2556000" />
+    </task>
+    <task id="LOCAL-00001" summary="add new Readme file">
+      <created>1579786749618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579786749618</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="add new Readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new Readme file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579784832667">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579784832667" />
+    <state x="1192" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579614248122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1192" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579614248122" />
+    <state x="34" y="41" key="CommitChangelistDialog2" timestamp="1579786748582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="34" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579786748582" />
+    <state x="967" y="0" width="960" height="1047" key="dock-window-1" timestamp="1579684629347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="967" y="0" width="960" height="1047" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1579684629347" />
+    <state x="902" y="0" width="733" height="1024" key="dock-window-2" timestamp="1579712318511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="902" y="0" width="733" height="1024" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1579712318511" />
+    <state x="1096" y="244" key="run.anything.popup" timestamp="1579691188591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579691188591" />
+  </component>
+</project>
