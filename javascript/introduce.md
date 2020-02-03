@@ -32,9 +32,9 @@ indiquer un lien :
 
 Exemple : 
 
-#Introduction 
+# Introduction 
 
-##Partie 1: qu'est ce que le md ?
+## Partie 1: qu'est ce que le md ?
 
 ### Sous partie 
  

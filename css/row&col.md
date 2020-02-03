@@ -4,7 +4,7 @@ div.col+tab
 (1row et plusieurs col et non l'invers)
 espace en html = &nbsp;
 
-##col :
+## col :
 * 12 colones possible 
 
 donc 2/3 = 4 colones sur 12 pour le menu 

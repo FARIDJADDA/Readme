@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8e6c3f8-659e-4cea-914c-236449b6fdf2" name="Default Changelist" comment="" />
+    <list default="true" id="c8e6c3f8-659e-4cea-914c-236449b6fdf2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/html/CV.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/.idea/firebase.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap containers.md" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap containers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.md" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/row&amp;col.md" beforeDir="false" afterPath="$PROJECT_DIR$/css/row&amp;col.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/introduce.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +77,7 @@
       <workItem from="1579783688690" duration="199000" />
       <workItem from="1579784819641" duration="666000" />
       <workItem from="1579785518065" duration="2556000" />
+      <workItem from="1580729855358" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="add new Readme file">
       <created>1579786749618</created>
@@ -89,7 +97,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
