@@ -1,6 +1,8 @@
 # Qu'est-ce qu'un component
 
 c'est un outil HTML qui a été préparer par bootstrap pour nous faciliter la vie .
+voir documentation bootstrap
+
 
 ### Comment les utiliser :
 
