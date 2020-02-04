@@ -11,7 +11,7 @@ un site internet d'un container classique et centré le contenu du site sera seu
  le site internet d'un container fluid prendra tout l'espace de la page .
  
  
-### code:
+### `code:`
  
 ### container classique 
 
