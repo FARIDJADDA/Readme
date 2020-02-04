@@ -1,6 +1,4 @@
-<img src="bootstrap.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+[](bootstrap.png)
 
 
 > architecture de site internet pour html et css avec logiciel bootstrap
