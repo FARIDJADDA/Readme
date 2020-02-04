@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8e6c3f8-659e-4cea-914c-236449b6fdf2" name="Default Changelist" comment="add new .gitignore&#10;bootstrap.md bootstrap containers.md firebase.md crea repo git.md CV.md introduce.md">
-      <change afterPath="$PROJECT_DIR$/gitLab/createBranch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitLab/gitParamsUser.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitLab/importeRepo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c8e6c3f8-659e-4cea-914c-236449b6fdf2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +81,7 @@
       <workItem from="1580743095745" duration="934000" />
       <workItem from="1580744367260" duration="31000" />
       <workItem from="1580762808146" duration="248000" />
-      <workItem from="1580819373535" duration="1491000" />
+      <workItem from="1580819373535" duration="1768000" />
     </task>
     <task id="LOCAL-00001" summary="add new Readme file">
       <created>1579786749618</created>
@@ -131,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580820603024</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add new .gitignore">
+      <created>1580821029724</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580821029724</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add new .gitignore">
+      <created>1580821106061</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580821106061</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,19 +176,19 @@
     </state>
     <state x="954" y="257" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1580820846158" />
     <state x="1192" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579614248122" />
-    <state x="566" y="0" width="970" height="824" key="CommitChangelistDialog2" timestamp="1580821028773">
+    <state x="566" y="0" width="970" height="824" key="CommitChangelistDialog2" timestamp="1580821105144">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="566" y="0" width="970" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580821028773" />
+    <state x="566" y="0" width="970" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580821105144" />
     <state x="34" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579786748582" />
     <state x="499" y="110" key="FileChooserDialogImpl" timestamp="1580762858860">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580762858860" />
-    <state x="522" y="83" key="Vcs.Push.Dialog.v2" timestamp="1580821037588">
+    <state x="522" y="83" key="Vcs.Push.Dialog.v2" timestamp="1580821107183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="522" y="83" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580821037588" />
+    <state x="522" y="83" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580821107183" />
     <state x="967" y="0" width="960" height="1047" key="dock-window-1" timestamp="1579684629347">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -193,5 +201,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579691188591" />
+    <state x="732" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1580821269329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="732" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580821269329" />
   </component>
 </project>
