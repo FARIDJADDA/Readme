@@ -19,7 +19,7 @@ le dossier passe au vert c'est qu'il est envoyé
  + appuyer sur la fleche verte
 décocher les cases perform code analysis et check TODO (show all)
 
-`1` add commit message exemple : add new readme file `important en informatique interdit d'utiliser d'autre mot qu'en anglais`
+`1` add commit message exemple : add new readme file <strong><em>important en informatique interdit d'utiliser d'autre mot qu'en anglais</em></strong>`
 
 `2` pour push il faut créer un projet gitlab pour pouvoir stocker
 
