@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c8e6c3f8-659e-4cea-914c-236449b6fdf2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitLab/importeRepo.md" beforeDir="false" afterPath="$PROJECT_DIR$/gitLab/importeRepo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitLab/gitParamsUser.md" beforeDir="false" afterPath="$PROJECT_DIR$/gitLab/gitParamsUser.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -84,7 +85,7 @@
       <workItem from="1580743095745" duration="934000" />
       <workItem from="1580744367260" duration="31000" />
       <workItem from="1580762808146" duration="248000" />
-      <workItem from="1580819373535" duration="7429000" />
+      <workItem from="1580819373535" duration="8558000" />
     </task>
     <task id="LOCAL-00001" summary="add new Readme file">
       <created>1579786749618</created>
@@ -240,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580827017465</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add new importeRepo.md">
+      <created>1580827370753</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1580827370753</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +278,8 @@
     <MESSAGE value="add new integrateBootstrap.md" />
     <MESSAGE value="add new crea repo git.md" />
     <MESSAGE value="add new createBranch.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new createBranch.md" />
+    <MESSAGE value="add new importeRepo.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new importeRepo.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="828" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579784832667">
@@ -282,19 +291,23 @@
     </state>
     <state x="954" y="257" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1580820846158" />
     <state x="1192" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579614248122" />
-    <state x="566" y="0" width="970" height="824" key="CommitChangelistDialog2" timestamp="1580827016556">
+    <state x="566" y="0" width="970" height="824" key="CommitChangelistDialog2" timestamp="1580827369563">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="566" y="0" width="970" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580827016556" />
+    <state x="566" y="0" width="970" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580827369563" />
     <state x="34" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579786748582" />
     <state x="499" y="110" key="FileChooserDialogImpl" timestamp="1580762858860">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580762858860" />
-    <state x="522" y="83" key="Vcs.Push.Dialog.v2" timestamp="1580827018707">
+    <state x="323" y="0" key="SettingsEditor" timestamp="1580828074117">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="522" y="83" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580827018707" />
+    <state x="323" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580828074117" />
+    <state x="522" y="83" key="Vcs.Push.Dialog.v2" timestamp="1580827372760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="83" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580827372760" />
     <state x="967" y="0" width="960" height="1047" key="dock-window-1" timestamp="1579684629347">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
