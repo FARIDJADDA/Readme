@@ -4,7 +4,7 @@
 
 + package.json
 + package.log
-(log trace des operations qui ont etaient fait)
+(log trace des operations qui ont étaient faites)
 
 # Qu'est-ce qu'un gitignore :
 
