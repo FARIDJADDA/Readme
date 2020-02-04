@@ -4,7 +4,7 @@ document principale avec tout les fichiers qui ont été accepté par le chef de
 version de reference qu'on va garder ... Si nous sommes bcp à travailler sur un projet
 on utilisera donc des branches 
 
-#Qu'est-ce qu'une branch :
+# Qu'est-ce qu'une branch :
 
 une copie du repo a une date T pour faire nos propre modification sans toucher à la master dans un premier temps.
 
