@@ -36,3 +36,4 @@ décocher les cases perform code analysis et check TODO (show all)
 `4` mettre en privé ou en public 
 
 `5` clone -> copy url HTTPS aller dans find remote et coller l'url -> Push
+.
