@@ -1,5 +1,3 @@
- [boostrap](bootstrap.png)
-
 
 > architecture de site internet pour html et css avec logiciel bootstrap
 (framework = cadre de travail)
