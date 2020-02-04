@@ -35,7 +35,7 @@ exemple:
     text-align: center ;
 }
 
-important !! ne pas oublier de mettre la ref :
+`important !!` ne pas oublier de mettre la ref :
 
 ```
 <link rel="stylesheet" href="../assets/style.css">
