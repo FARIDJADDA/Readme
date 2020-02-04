@@ -12,7 +12,7 @@ une copie du repo a une date T pour faire nos propre modification sans toucher Ã
 ### Comment crÃ©er une branch :
 
 en bas a droite git:master -> new branch
-faire des modification dans sa branche commit puis chekout dans la master pour voir le resultat final
+faire des modification dans sa branche commit puis chekout dans la master pour voir le resultat final </br>
 ( <strong><em>really important! interdit de chekout entre 2 branches sans avoir commit avant</em></strong> )
 
 ### Comment envoyer sa branch vers la master:
