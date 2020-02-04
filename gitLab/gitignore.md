@@ -23,4 +23,5 @@ C'est un fichier que nous allons crée afin de d'enlever les fichiers dans gitla
 
 `2` : -> dans le terminal -> git rm -rf .idea
 
-`3` : une fois tout supprimé -> Commit
+`3` : une fois tout supprimé -> Commit and push
+
