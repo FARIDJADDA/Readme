@@ -1,6 +1,7 @@
 # Comment configurer son git pour qu'il fonctionne avec webstorm:
 
-1. ouvrir le terminal <strong><em>really important! à faire qu'une seule fois</em></strong>
+1. ouvrir le terminal <br/>
+<strong><em>really important! à faire qu'une seule fois</em></strong>
 
 2. Google taper git set usernam and password ->site atlassian
 
