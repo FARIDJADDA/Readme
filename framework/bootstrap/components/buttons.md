@@ -6,7 +6,6 @@ etc. <br/>
 avec prise en charge de plusieurs tailles,<br/> 
 états et plus encore.
 
-
 ![Screenshot](buttons.png)
 
 ### Exemples
