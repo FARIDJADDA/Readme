@@ -19,6 +19,7 @@ d'une erreur dans l'attribut src ou si l'utilisateur utilise un lecteur d'écran
 La valeur de l' `alt` attribut doit décrire l'image:
 
 ### Exemple
+
 ```
 <img src="img_name.jpg" alt="name alt">
 ```
@@ -32,3 +33,14 @@ Si un navigateur ne trouve pas d'image, il affichera la valeur de l' alt attribu
 ```
 
 <strong><em>Remarque</strong></em> _: l' altattribut est obligatoire. Une page Web ne sera pas validée correctement sans elle._
+
+# Images animées
+
+
+_Le HTML permet des GIF animés:_
+
+### Exemple
+
+```
+<img src="programming.gif" alt="Computer Man" style="width:48px;height:48px;">
+```
