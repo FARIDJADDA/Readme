@@ -1,9 +1,8 @@
 # Syntaxe des images HTML
 
 _En HTML, les images sont définies avec la `<img>` balise.
-La `<img>` balise est vide,<br/>
+La `<img>` balise est vide,
 elle contient uniquement des attributs et n'a pas de balise de fermeture._
-
 
 L' `src` attribut spécifie l'URL (adresse Web) de l'image:
 
@@ -11,7 +10,7 @@ L' `src` attribut spécifie l'URL (adresse Web) de l'image:
 <img src="url">
 ```
 
-#L'attribut alt
+# L'attribut alt
 
 L' `alt` attribut fournit un texte alternatif pour une image, <br/>
 si l'utilisateur pour une raison quelconque ne peut pas la visualiser (en raison d'une connexion lente, <br/>
