@@ -7,7 +7,7 @@ avec prise en charge de plusieurs tailles,<br/>
 états et plus encore.
 
 
-![alt text](C:\Users\HP\Desktop\natixis\buttons.png)
+![alt text](Users\HP\Desktop\natixis\buttons.png)
 
 ### Exemples
 
