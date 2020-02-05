@@ -6,7 +6,7 @@ etc. <br/>
 avec prise en charge de plusieurs tailles,<br/> 
 états et plus encore.
 
-![img](framework\bootstrap\components\img\buttons.png)
+![img](buttons.png)
 
 ### Exemples
 
