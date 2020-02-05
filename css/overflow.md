@@ -11,8 +11,8 @@ La `overflow` propriété a les valeurs suivantes:
 + `auto`- Similaire à `scroll`, mais il ajoute des barres de défilement uniquement lorsque cela est nécessaire
 
 
->Remarque: La `overflow` propriété ne fonctionne que pour les éléments de bloc avec une hauteur spécifiée.
->Remarque: Sous OS X Lion (sur Mac), les barres de défilement sont masquées par défaut et ne s'affichent que lorsqu'elles sont utilisées (même si "overflow: scroll" est défini).
+> <strong><em>Remarque:</strong></em> La `overflow` propriété ne fonctionne que pour les éléments de bloc avec une hauteur spécifiée.<br/>
+> <strong><em>Remarque:</strong></em> Sous OS X Lion (sur Mac), les barres de défilement sont masquées par défaut et ne s'affichent que lorsqu'elles sont utilisées (même si "overflow: scroll" est défini).
  
 # Overflow: défilement
 
