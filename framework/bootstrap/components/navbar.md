@@ -14,7 +14,7 @@ Cette classe ajuste l'alignement vertical et l'espacement horizontal pour les ch
 
 ![Screenshot](nav.png)
 
-
+`code:`
 
 ```
 <nav class="navbar navbar-light bg-light">
