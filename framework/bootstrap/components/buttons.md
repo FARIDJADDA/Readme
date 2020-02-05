@@ -7,7 +7,7 @@ avec prise en charge de plusieurs tailles,<br/>
 états et plus encore.
 
 
-![alt text](HP\Desktop\natixis\buttons.png)
+![Screenshot](buttons.png)
 
 ### Exemples
 
