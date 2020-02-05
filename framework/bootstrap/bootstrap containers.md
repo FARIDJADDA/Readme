@@ -16,16 +16,16 @@ un site internet d'un container classique et centré le contenu du site sera seu
 ### container classique 
 
 ```
- `html:`
+ html:
 
-  `<div` class="container main">
-     `<div` class="row content">
-         `<div` class="col"> coucou `</div>`
-     `</div>`
+  <div class="container main">
+     <div class="row content">
+         <div class="col"> coucou </div>
+     </div>
  
- `</div>`
+ </div>
 
-`css:`
+css:
 
 .main {
     background: ;
@@ -40,12 +40,12 @@ un site internet d'un container classique et centré le contenu du site sera seu
  
  ```
 
-` html:`
+ html:
 
- `<div` class="container-fluid main">
-     `<div` class="row content">
-         `<div` class="col"> coucou </div>
-     `</div>`
- `</div>`
+ <div class="container-fluid main">
+     <div class="row content">
+         <div class="col"> coucou </div>
+     </div>
+ </div>
 
 ```
