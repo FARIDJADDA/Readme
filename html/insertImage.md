@@ -20,7 +20,7 @@ La valeur de l' `alt` attribut doit décrire l'image:
 
 ### Exemple
 ```
-<img src="img_chania.jpg" alt="Flowers in Chania">
+<img src="img_name.jpg" alt="name alt">
 ```
 
 Si un navigateur ne trouve pas d'image, il affichera la valeur de l' alt attribut:
@@ -28,7 +28,7 @@ Si un navigateur ne trouve pas d'image, il affichera la valeur de l' alt attribu
 ### Exemple
 
 ```
-<img src="wrongname.gif" alt="Flowers in Chania">
+<img src="wrongname.gif" alt="name alt">
 ```
 
 <strong><em>Remarque</strong></em> _: l' altattribut est obligatoire. Une page Web ne sera pas validée correctement sans elle._
