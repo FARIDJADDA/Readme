@@ -8,7 +8,7 @@
 
 # Qu'est-ce qu'un gitignore :
 
-C'est un fichier que nous allons crée afin de d'enlever les fichiers dans gitlab qui nous sert pas .
+C'est un fichier que nous allons crée afin d'enlever les fichiers dans gitlab qui nous serve pas .
 
 # Comment faire un gitignore 
 
