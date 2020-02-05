@@ -46,3 +46,19 @@ p.none {border-style: none;}
 p.hidden {border-style: hidden;}
 p.mix {border-style: dotted dashed solid double;}
 ```
+>
+>
+
+# Bordures arrondies CSS
+
+<strong>La border-radiuspropriété est utilisée pour ajouter des bordures arrondies à un élément:</strong>
+
+
+### Exemple
+
+```
+p {
+  border: 2px solid red;
+  border-radius: 5px;
+}
+```
