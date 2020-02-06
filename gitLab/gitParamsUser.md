@@ -2,15 +2,15 @@
 
 <strong><em>really important! à faire qu'une seule fois</em></strong>
 
-1. ouvrir le terminal 
+:one: . ouvrir le terminal 
 
-2. Google taper git set usernam and password ->site atlassian
+:two: . Google taper git set usernam and password ->site atlassian
 
-3. prendre     ` git config --global user.name "farid djadda" `
+:three: . prendre     ` git config --global user.name "farid djadda" `
 
-4. file -> settings -> pluggins gitlab install et redemarrer webstorm
+:four: . file -> settings -> pluggins gitlab install et redemarrer webstorm
 
-5. Add new gitlab server, 3 infos à mettre <br/>
+:five: . Add new gitlab server, 3 infos à mettre <br/>
 + premiere ligne :https://gitlab.com
 + deuxieme ligne :gitlab.com
 + troisième ligne :mettre son Token d'ID <br/>
