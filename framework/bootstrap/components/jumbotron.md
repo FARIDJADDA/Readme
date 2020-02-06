@@ -2,7 +2,7 @@
 
 _Un composant léger et flexible qui peut éventuellement étendre toute la fenêtre d'affichage pour présenter les messages marketing clés sur notre site._
 
-![Screenshot](jumbotron.png)<jumbotron.png"  width="50" height="50">
+![Screenshot](jumbotron.png)<jumbotron.png"  width="20" height="20">
 
 
 
