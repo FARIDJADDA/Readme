@@ -3,9 +3,15 @@
 && = And (informatique)<br>
 ||  = Or (informatique)
 
-nous pouvons combiner les deux .
-exemple:
+# Qu'est'ce qu'une composition de predicat :
+
+_c'est quand on combine +sieur predicat ensemble_
+
+### Exemple:
+
+```
 const IsMaleOrIsFemaleAndIsMajorAndIsMinor = (IsFemale || IsMale) && (IsMajor && IsMinor) ;
 console.log ( IsMaleOrIsFemaleAndIsMajor);
+```
 
-l'ordinateur va d'abord examiner la première parenthèse puis la comparer à la deuxième pour donner une reponse .
+_l'ordinateur va d'abord examiner la première parenthèse puis la comparer à la deuxième pour donner une réponse ._
