@@ -1,5 +1,3 @@
-:monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey: :monkey:
-
 
 # Style de bordure CSS
 
