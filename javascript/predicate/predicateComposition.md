@@ -1,6 +1,6 @@
 
->_Camel Case = IsMajor ( le fait de mettre une majuscule au début de chaque mot )_
-&& = And (informatique)
+>_Camel Case = IsMajor ( le fait de mettre une majuscule au début de chaque mot )_<br>
+&& = And (informatique)<br>
 ||  = Or (informatique)
 
 nous pouvons combiner les deux .
