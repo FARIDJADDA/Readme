@@ -1,8 +1,8 @@
 # Comment importer un repo gitlab sur son IDE
 
-1. aller sur le repo gitlab ->clone ( copy HTTPS )
+:one: aller sur le repo gitlab ->clone ( copy HTTPS )
 
-2. VCS get from version control coller le clone
+:two: VCS get from version control coller le clone
 
 
  _un fichier :green_apple: est un fichier neuf <br>
