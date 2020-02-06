@@ -1,5 +1,5 @@
 <strong><em> (une commande est une fonction ,entre parenthèses paramètre )
-            ecape character    \    (   ' je m\'apelle fa ' ) </strong></em>
+            escape character    \    (   ' je m\'apelle fa ' ) </strong></em>
             
 # Les valeurs primitives :
 
