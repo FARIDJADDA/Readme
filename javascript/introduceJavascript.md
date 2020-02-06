@@ -1,14 +1,13 @@
 # Comment intégrer du code Javascript à une page html 
 
-+ crée fichier javaScript 
-+ affiché message dans la console 
-+ console.log('coucou')
+:one: crée fichier javaScript 
+:two: affiché message dans la console 
+:three: console.log('coucou')
 
-+  -> index.html -> ( recherche google : ''html javascript link file'' )  
+ _-> index.html -> ( recherche google : ''html javascript link file'' )_  
 `<script src="index.js"></script>.`
-
-+ mettre le code source dans head    <br>
+:four: mettre le code source dans head    <br>
 `<head><script src="myscripts.js"></script> </head>`
 
-+ coucou affiché dans la console du navigateur.
+ 8_oucou affiché dans la console du navigateur._
 
