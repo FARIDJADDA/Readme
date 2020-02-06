@@ -1,3 +1,5 @@
+:monkey: :monkey: :monkey: :monkey: :monkey::monkey: :monkey: :monkey: :monkey: :monkey: :monkey::monkey:
+
 # Style de bordure CSS
 
 <strong>la border-stylepropriété spécifie le type de bordure à afficher.</strong>
