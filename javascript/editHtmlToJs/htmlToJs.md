@@ -6,6 +6,10 @@ _Mettre  la balise `<script src="texte.html.js"></script>` a la fin de la balise
 
 chercher la fonction  `queryselector` (selectionner la requete) `'h1'`
 
+
+`Code JS :`
+
+
 ```
 const title = document.querySelector('h1');
 
