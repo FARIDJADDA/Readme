@@ -26,4 +26,16 @@ Console.log(number1+number2);
 
 <strong><em> on declare la variable ,on lui donne un nom , puis on lui assigne<br> 
               const               /           number            /                 =<br>
-une varibla n'est déclaré qu'une seule fois </strong></em>
+une varibla n'est déclaré qu'une seule fois ,puis on peu par la suite lui assigner une nouvelle valeure</strong></em>
+
+# Exemple :
+
+```
+Var number1 = 15;
+Var number2 = 25;
+Console.log(number1+number2);
+_Console.log = (40)_
+
+number1 = 30
+Console.log(number1+number2);
+_Console.log = (55)_ ;
