@@ -4,7 +4,7 @@ _Documentation et exemples pour l'en-tête de navigation puissant et réactif de
 la barre de navigation. Inclut la prise en charge de la marque,
 de la navigation, <br/>
 etc.,<br/>
-y compris la prise en charge de notre plug-in de repli._
+y compris la prise en charge de plug-in de repli._
 
 ## Texte
 
