@@ -11,7 +11,7 @@ _les prédicats = true or false_
 const firstName = 'farid';
 const lastName = 'djadda';
 const age = 28;
-const adress = '6 rue huntziger'
+const adress = '6 rue huntziger';
 ```
 
 `Savoir si quelqu'un est majeur`
@@ -21,7 +21,7 @@ const IsMajor =  me.age >=18 ;
 console.log (IsMajor);
 ```
 
-#Comment mixer les predicats :
+# Comment mixer les predicats :
 
 ```
 const IsMajor =  me.age >=18 ; 
