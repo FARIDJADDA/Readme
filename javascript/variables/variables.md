@@ -25,4 +25,5 @@ Console.log(number1+number2);
  
 
 <strong><em> on declare la variable ,on lui donne un nom , puis on lui assigne<br> 
-              const               /           number            /                 =</strong></em>
+              const               /           number            /                 =<br>
+une varibla n'est déclaré qu'une seule fois </strong></em>
