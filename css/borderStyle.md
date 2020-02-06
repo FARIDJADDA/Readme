@@ -1,4 +1,4 @@
-## <strong><em>Seb</strong></em> _Je savais que t'allais ouvrir ce fichier en premier_ :joy: :joy: :joy: :smiling_imp: :smiling_imp: :smiling_imp:
+## <strong><em>Seb</strong></em> _fait un effort avec la note :pray:_ :joy: :joy: :joy: :smiling_imp: :smiling_imp: :smiling_imp:
 
 # Style de bordure CSS
 
