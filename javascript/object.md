@@ -1,10 +1,7 @@
-_ctrl + a = tout sélectionner_
-
 # Les objets :
 
 
 _les objets regroupent un ensemble de variable <strong>simplification </strong>_<br> 
-_ctrl + D = dupliquer_
 
 ### Exemple 
 
@@ -27,7 +24,6 @@ const me {
 >= (assignation)
 >=== (comparer) 
 
-_sift+fin = selectionner la ligne_<br>
 _quand on fait un point ca veut dire qu'on veut atteindre la chose qui suit_
 
 ### Exemple: :speech_balloon:
