@@ -23,6 +23,7 @@ console.log (IsMajor);
 
 # Comment mixer les predicats :
 
+
 ```
 const IsMajor =  me.age >=18 ; 
 const (isFarid) = me.firstName === 'Farid'
