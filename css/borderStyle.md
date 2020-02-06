@@ -19,7 +19,8 @@
 + `hidden` - Définit une bordure cachée
 + `La border` -stylepropriété peut avoir de une à quatre valeurs (pour la bordure supérieure, la bordure droite, la bordure inférieure et la bordure gauche).
 
-### Exemple
+### Exemple  :speech_balloon:
+
 _Démonstration des différents styles de bordure:_
 
 Exemple
