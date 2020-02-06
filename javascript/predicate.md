@@ -2,31 +2,31 @@
 
 _les prédicats = true or false_
  
-# Exemple 
+### Exemple 
 
-`fiche d'identité:`
 
+`fiche identité:_créer un objet_
+` 
 ``` 
-const FirstName = Farid,
-const LastName = Djadda, 
-const age = 28,
-const addres = 6 rue huntziger, 
-
-const me = { FirstName: 'farid' ,  
-                     LastName :'djadda' ,   
-                     age : 28 ,
-                      addres : '6 rue huntziger
-} ;
-           console.log ( me.FirstName);
-           console.log ( me.addres );
+const firstName = 'farid';
+const lastName = 'djadda';
+const age = 28;
+const adress = '6 rue huntziger'
 ```
 
-`savoir si quelqu'un est majeur`
- 
-``` 
-const IsMajor = ( age >=18) ; 
+`Savoir si quelqu'un est majeur`
+
+```
+const IsMajor =  me.age >=18 ; 
 console.log (IsMajor);
 ```
 
->= (assignation)
->=== (comparer) 
+#Comment mixer les predicats :
+
+```
+const IsMajor =  me.age >=18 ; 
+const (isFarid) = me.firstName === 'Farid'
+
+console.log (IsMajor);
+console.log (isFarid);
+```

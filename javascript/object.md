@@ -6,24 +6,32 @@ _ctrl + a = tout sélectionner_
 _les objets regroupent un ensemble de variable <strong>simplification </strong>_<br> 
 _ctrl + D = dupliquer_
 
-# Exemple
+### Exemple 
 
- 
-`fiche d'identité :`
 
-```
-const FirstName = Farid,
-const LastName = Djadda, 
-const age = 28,
-const addres = 6 rue huntziger, 
+`fiche identité:_créer un objet_
+` 
+``` 
+const firstName = 'farid';
+const lastName = 'djadda';
+const age = 28;
+const adress = '6 rue huntziger'
 
-const me = { FirstName: 'farid' ,  
-                     LastName :'djadda' ,   
-                     age : 28 ,
-                      addres : '6 rue huntziger
-} ;
-           console.log ( me.FirstName);
-           console.log ( me.addres );
-```
+const me {
+    fristName: 'Farid', 
+    lastName: 'Djadda',
+    age: 28,
+};
+``` 
+
+>= (assignation)
+>=== (comparer) 
+
+_sift+fin = selectionner la ligne_<br>
+_quand on fait un point ca veut dire qu'on veut atteindre la chose qui suit_
+
+### Exemple:
+
+`console.log(me.FirstName)` _on demmande à la console d'aller dans me et d'atteindre lastName_
 
  
