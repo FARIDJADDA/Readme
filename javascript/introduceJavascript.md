@@ -7,8 +7,8 @@
 :three: console.log('coucou')<br>
 
  _-> index.html -> ( recherche google : ''html javascript link file'' )_  
-`<script src="index.js"></script>.
-`
+`<script src="index.js"></script>.` <br>
+
 :four: mettre le code source dans head <br>
 `<head><script src="myscripts.js"></script> </head>`
 
