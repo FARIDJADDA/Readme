@@ -3,11 +3,11 @@
 
 _les objets regroupent un ensemble de variable <strong>simplification </strong>_<br> 
 
-### Exemple 
+### Exemple :speech_balloon:
 
 
-`fiche identité:_créer un objet_
-` 
+###### fiche identité:_créer un objet_
+
 ``` 
 const firstName = 'farid';
 const lastName = 'djadda';
