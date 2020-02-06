@@ -5,8 +5,8 @@ _les prédicats = true or false_
 ### Exemple 
 
 
-`fiche identité:_créer un objet_
-` 
+`fiche identité:`_créer un objet_
+ 
 ``` 
 const firstName = 'farid';
 const lastName = 'djadda';
