@@ -21,7 +21,7 @@ En définissant la valeur sur `scroll`, le débordement est coupé et une barre 
 
 Vous pouvez utiliser la propriété de débordement lorsque vous souhaitez avoir un meilleur contrôle de la mise en page. La propriété overflow spécifie ce qui se passe si le contenu déborde de la boîte d'un élément.
 
-### Exemple
+### Exemple :speech_balloon:
 
 ```
 div {
@@ -36,7 +36,7 @@ Les propriétés `overflow-x` et `overflow-y`spécifient s'il faut modifier le d
 `overflow-x` spécifie quoi faire avec les bords gauche / droit du contenu.
 `overflow-y` spécifie ce qu'il faut faire avec les bords supérieur / inférieur du contenu.
 
-### Exemple
+### Exemple :speech_balloon:
 
 ```
 div {

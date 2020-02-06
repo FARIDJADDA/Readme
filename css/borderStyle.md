@@ -19,12 +19,13 @@
 + `hidden` - Définit une bordure cachée
 + `La border` -stylepropriété peut avoir de une à quatre valeurs (pour la bordure supérieure, la bordure droite, la bordure inférieure et la bordure gauche).
 
-### Exemple  :speech_balloon:
+### Exemple : :speech_balloon:
 
 _Démonstration des différents styles de bordure:_
 
-Exemple
-Démonstration des différents styles de bordure:
+### Exemple : :speech_balloon: 
+
+Démonstration des différents styles de bordure: :thumbsup:
 
 ```
 p.dotted {
@@ -102,7 +103,9 @@ p.mix {
 <strong>La border-radiuspropriété est utilisée pour ajouter des bordures arrondies à un élément:</strong>
 
 
-### Exemple
+### Exemple : :speech_balloon:
+
+:thumbsup:
 
 ```
 p {

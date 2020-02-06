@@ -8,7 +8,7 @@ avec prise en charge de plusieurs tailles,<br/>
 
 ![img](buttons.png)
 
-### Exemples
+### Exemples :speech_balloon:
 
 Bootstrap comprend plusieurs styles de boutons prédéfinis,<br/>
 chacun servant son propre objectif sémantique,<br/>

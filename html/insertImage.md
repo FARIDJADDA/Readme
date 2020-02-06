@@ -18,7 +18,7 @@ d'une erreur dans l'attribut src ou si l'utilisateur utilise un lecteur d'écran
 
 La valeur de l' `alt` attribut doit décrire l'image:
 
-### Exemple
+### Exemple: :speech_balloon:
 
 `
 <img src="img_name.jpg" alt="name alt">
@@ -26,7 +26,7 @@ La valeur de l' `alt` attribut doit décrire l'image:
 
 Si un navigateur ne trouve pas d'image, il affichera la valeur de l' alt attribut:
 
-### Exemple
+### Exemple : :speech_balloon:
 
 `
 <img src="wrongname.gif" alt="name alt">
@@ -39,7 +39,7 @@ Si un navigateur ne trouve pas d'image, il affichera la valeur de l' alt attribu
 
 _Le HTML permet des GIF animés:_
 
-### Exemple
+### Exemple : :speech_balloon:
 
 `
 <img src="programming.gif" alt="Computer Man" style="width:48px;height:48px;">

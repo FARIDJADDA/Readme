@@ -10,7 +10,7 @@ espace en html = &nbsp;
 donc 2/3 = 4 colones sur 12 pour le menu 
 et 8 colones sur 12 pour le content
 
-ex:
+### Exemple :
 
     <div class="col-4 menu"> </div>
 

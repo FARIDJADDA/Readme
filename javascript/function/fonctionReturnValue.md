@@ -5,7 +5,7 @@ _Une fonction renvoie toujours quelque chose_
 
 `mot clef:` return
 
-### Exemple :
+### Exemple : :speech_balloon:
 
 ```
 const number1 = 50

@@ -30,7 +30,7 @@ const me {
 _sift+fin = selectionner la ligne_<br>
 _quand on fait un point ca veut dire qu'on veut atteindre la chose qui suit_
 
-### Exemple:
+### Exemple: :speech_balloon:
 
 `console.log(me.FirstName)` _on demmande à la console d'aller dans me et d'atteindre lastName_
 

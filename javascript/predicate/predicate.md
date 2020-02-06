@@ -2,7 +2,7 @@
 
 _les prédicats = true or false_
  
-### Exemple 
+### Exemple :speech_balloon:
 
 
 `fiche identité:`_créer un objet_

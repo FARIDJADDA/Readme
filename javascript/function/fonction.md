@@ -3,7 +3,7 @@
 
 `Mot clef:` function _nom de la fonction_
  
-### Exemple : 
+### Exemple : :speech_balloon:
 
 ```
 function addition(x,y) { 
@@ -17,6 +17,6 @@ Function soustraction (x,y) {
 
  <strong><em>On peut ensuite donné un nom à la fonction dans la console </strong></em>
  
- ### Exemple:
+ ### Exemple: :speech_balloon:
  
   `Console.log(‘appel de la fonction addition:’ x + y)`

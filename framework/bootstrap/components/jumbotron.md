@@ -5,7 +5,7 @@ _Un composant léger et flexible qui peut éventuellement étendre toute la fen�
 ![Screenshot](jumbotron.png)
 
 
-`code` :
+`code` : :speech_balloon:
 
 ```
 <div class="jumbotron">
@@ -19,7 +19,7 @@ _Un composant léger et flexible qui peut éventuellement étendre toute la fen�
 
 ### Jumbotron fluide
 
-`code`
+`code` : :speech_balloon:
 
 ```
 <div class="jumbotron jumbotron-fluid">

@@ -11,9 +11,9 @@ un site internet d'un container classique et centré le contenu du site sera seu
  le site internet d'un container fluid prendra tout l'espace de la page .
  
  
-### `code:`
+### `code:` :speech_balloon:
  
-### container classique 
+### container classique :thumbsup:
 
  `html:`
  
@@ -39,7 +39,7 @@ un site internet d'un container classique et centré le contenu du site sera seu
 }
 ``` 
 
-### container fluid
+### container fluid  :thumbsup:
  
 `html:`
  
