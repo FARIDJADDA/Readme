@@ -1,19 +1,17 @@
-# REPOSITORY
+# REPOSITORY = REPO :
 
-=
-
-# REPO
-
-C'est l'endroit ou nous allons mettre un projet complet 
+_C'est l'endroit ou nous allons mettre un projet complet_ 
 
 ## comment fabriquer un projet et l'envoyer dans gitlab?
-telechargement de git :
+
+###### Telechargement de git :
 
 terminal -> git init 
 
 ### ajouter les dossiers dans git 
-dossier rouge pas envoyé click droit ->git->add 
-le dossier passe au vert c'est qu'il est envoyé 
+
+dossier :red_circle: pas envoyé click droit ->git->add 
+le dossier passe au :green_apple: c'est qu'il est envoyé 
 
 ### envoyé dans git :
  + appuyer sur la fleche verte
@@ -36,4 +34,3 @@ décocher les cases perform code analysis et check TODO (show all)
 :four: mettre en privé ou en public 
 
 :five: clone -> copy url HTTPS aller dans find remote et coller l'url -> Push
-.

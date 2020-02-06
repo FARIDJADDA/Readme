@@ -20,7 +20,7 @@ faire des modification dans sa branche commit puis chekout dans la master pour v
 :one: aller sur gitlab
 
 :two: rafraichir la page principale et appuyer sur create merge request<br/>
-( <strong><em>really important! bien faire attention qu'on va bien from testBranch into master </em></strong> )
+( <strong><em>really important! bien faire attention qu'on va bien de from testBranch into master </em></strong> )
 
 :three: assigner le chef de projet 
 
