@@ -8,7 +8,7 @@
 
 :three: . prendre     ` git config --global user.name "farid djadda" `
 
-:four: . file -> settings -> pluggins gitlab install et redemarrer webstorm
+:four: . file :arrow_right: settings :arrow_right: pluggins gitlab install et redemarrer webstorm
 
 :five: . Add new gitlab server, 3 infos à mettre <br/>
 + premiere ligne :https://gitlab.com
@@ -18,9 +18,9 @@
 
 #### comment reccuperer son Token :
 
-cliquer sur Token page -> connexion gitlab ->
+cliquer sur Token page :arrow_right: connexion gitlab 
 
-+ donner un name :Webstorm
++ donner un name :arrow_right: Webstorm
 + mettre une date d'expiration 
 + Scopes cocher `api`
 + cliquer sur create personnal access token <br/>
