@@ -1,6 +1,6 @@
 # Comment intégrer du code Javascript à une page html 
 
-:one: crée fichier javaScript <br>
+:one: créer fichier javaScript <br>
 
 :two:  allez sur google et taper : 'html javascript link file'
 
