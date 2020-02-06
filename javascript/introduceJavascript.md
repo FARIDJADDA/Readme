@@ -11,7 +11,7 @@
 :arrow_down:
 ```
 <head>
-                    <script src="myscripts.js"></script> 
-                 </head> 
+  <script src="myscripts.js"></script> 
+</head> 
 ```
  
