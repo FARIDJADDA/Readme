@@ -8,7 +8,10 @@
 
 :three: mettre le code source dans head <br>
 
-:arrow_right: ```<head>
+:arrow_down:
+```
+<head>
                     <script src="myscripts.js"></script> 
-                 </head> ```
+                 </head> 
+```
  
