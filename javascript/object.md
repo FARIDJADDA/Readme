@@ -9,7 +9,7 @@ _ctrl + D = dupliquer_
 # Exemple
 
  
-fiche d'identité :
+`fiche d'identité :`
 
 ```
 const FirstName = Farid,
