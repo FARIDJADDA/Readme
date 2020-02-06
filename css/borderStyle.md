@@ -1,4 +1,4 @@
-<strong><em>Seb</strong></em> Je savais que t'allais ouvrir ce fichier en premier :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface:
+<strong><em>Seb</strong></em> Je savais que t'allais ouvrir ce fichier en premier :joy: :joy: :joy: :joy: :joy: :joy: :joy:
 
 # Style de bordure CSS
 
