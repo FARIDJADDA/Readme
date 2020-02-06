@@ -1,4 +1,4 @@
-## <strong><em>Seb</strong></em> _Je savais que t'allais ouvrir ce fichier en premier_ :joy: :joy: :joy: :joy: :joy: :joy: :joy:
+## <strong><em>Seb</strong></em> _Je savais que t'allais ouvrir ce fichier en premier_ :joy: :joy: :joy: :joy: :smiling_imp: :smiling_imp: :smiling_imp:
 
 # Style de bordure CSS
 
