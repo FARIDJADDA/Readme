@@ -33,7 +33,7 @@ add un style au col pour qu'elles soient bien centrées
 * crée un stylesheets.css dans le dossier assets
 puis add un style
 
-###Exemple: :speech_balloon:
+### Exemple: :speech_balloon:
 
 ```
 .numbers {
