@@ -1,11 +1,10 @@
-<strong><em> (une commande est une fonction ,entre parenthèses paramètre )
-            escape character    \    (   ' je m \ 'apelle fa ' ) </strong></em>
+_escape character    \    (   ' je m \ 'apelle fa ' ) </strong></em>_
             
 # Les valeurs primitives :
 
 + **les strings** : succession de caractère qui se suive  ( 'mon texte' ) type texte 
 
-+ **les numbers** : les nombre  (42)
++ **les numbers** : les nombres  (42)
 
 + **les booleans** : true / false : _si quelque chose est faut ... si quelque chose et vrai _
 
