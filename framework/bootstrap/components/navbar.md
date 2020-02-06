@@ -26,8 +26,8 @@ code :+1:
 
 ## Conteneurs
 
-_Bien que cela ne soit pas obligatoire, <br/>
-vous pouvez envelopper une barre de navigation dans un .<br/>
+_pas obligatoire, <br/>
+nous pouvons envelopper une barre de navigation dans un .<br/>
 container pour la centrer sur une page ou en ajouter une à <br/>
 l'intérieur pour ne centrer que le contenu d'une barre de navigation supérieure fixe ou statique ._
 
