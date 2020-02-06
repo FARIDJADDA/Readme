@@ -15,7 +15,7 @@ puis npm install bootstrap
 mettre la balise <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.css">
 (    ../  remonter d'un cran dans les dossiers et ctrl+esp pour la recherche de fichier apres le /   )
 
-!! tres important crée une div "container" avec bootstrap ( elle stock toutes les info du site )
+:anger: <stron> tres important crée une div "container" avec bootstrap </strong> _( elle stock toutes les info du site )_
 
 + crée une grille ( unité principale :ligne et a linterieur: colone )
 ligne = row    <div classe="row"
@@ -41,7 +41,7 @@ puis add un style
 }
 ```
 
-`important !!` ne pas oublier de mettre la ref :
+:anger: important !!<strong> ne pas oublier de mettre la ref :</strong>
 
 ```
 <link rel="stylesheet" href="../assets/style.css">

@@ -20,4 +20,4 @@ voir documentation bootstrap
 
 ` <script src="../nodemodules/bootstrap/dist/jquery.min.js></script> `
 
-<strong><em>important jquery doit être avant bootstrap parceque bootstrap a besoin de jquery pour fonctionner</em></strong>
+:anger: <strong><em>important jquery doit être avant bootstrap parceque bootstrap a besoin de jquery pour fonctionner</em></strong>

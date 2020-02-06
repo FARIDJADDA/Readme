@@ -32,7 +32,7 @@ Si un navigateur ne trouve pas d'image, il affichera la valeur de l' alt attribu
 <img src="wrongname.gif" alt="name alt">
 `
 
-<strong><em>Remarque</strong></em> _: l' altattribut est obligatoire. Une page Web ne sera pas validée correctement sans elle._
+:anger: <strong><em>Remarque</strong></em> _: l' altattribut est obligatoire. Une page Web ne sera pas validée correctement sans elle._
 
 # Images animées
 

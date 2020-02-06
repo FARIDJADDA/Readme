@@ -1,7 +1,7 @@
 
 # Style de bordure CSS
 
-<strong>la border-stylepropriété spécifie le type de bordure à afficher.</strong>
+:anger: <strong>la border-stylepropriété spécifie le type de bordure à afficher.</strong>
 
  _Les valeurs suivantes sont autorisées:_
 
@@ -98,7 +98,7 @@ p.mix {
 
 # Bordures arrondies CSS
 
-<strong>La border-radiuspropriété est utilisée pour ajouter des bordures arrondies à un élément:</strong>
+:anger: <strong>La border-radiuspropriété est utilisée pour ajouter des bordures arrondies à un élément:</strong>
 
 
 ### Exemple : :speech_balloon:

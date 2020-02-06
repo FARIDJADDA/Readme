@@ -1,4 +1,4 @@
-!! une row doit toujours contenir une col. 
+:anger: <strong>!! une row doit toujours contenir une col.</strong> 
 raccourci pour une col :
 div.col+tab
 (1row et plusieurs col et non l'invers)

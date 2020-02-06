@@ -15,7 +15,7 @@ Function soustraction (x,y) {
 }
 ```
 
- <strong><em>On peut ensuite donné un nom à la fonction dans la console </strong></em>
+:anger: <strong><em>On peut ensuite donné un nom à la fonction dans la console </strong></em>
  
  ### Exemple: :speech_balloon:
  
