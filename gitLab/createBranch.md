@@ -17,14 +17,14 @@ faire des modification dans sa branche commit puis chekout dans la master pour v
 
 ### Comment envoyer sa branch vers la master:
 
-1. aller sur gitlab
+:one: aller sur gitlab
 
-2. rafraichir la page principale et appuyer sur create merge request<br/>
+:two: rafraichir la page principale et appuyer sur create merge request<br/>
 ( <strong><em>really important! bien faire attention qu'on va bien from testBranch into master </em></strong> )
 
-3. assigner le chef de projet 
+:three: assigner le chef de projet 
 
-4. submit merge request
+:four: submit merge request
 
-5. decocher delete source branch
+:five: decocher delete source branch
 

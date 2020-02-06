@@ -4,6 +4,6 @@
 
 2. VCS get from version control coller le clone
 
-+ un fichier vert est un fichier neuf 
 
-+ un fichier bleu est un fichier modifié
+ _un fichier :green_apple: est un fichier neuf <br>
+ un fichier :large_blue_circle: est un fichier modifié_

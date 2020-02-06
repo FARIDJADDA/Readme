@@ -21,19 +21,19 @@ décocher les cases perform code analysis et check TODO (show all)
 
 :one: add commit message exemple : add new readme file <strong><em>important en informatique interdit d'utiliser d'autre mot qu'en anglais</em></strong>`
 
-`2` pour push il faut créer un projet gitlab pour pouvoir stocker
+:two: pour push il faut créer un projet gitlab pour pouvoir stocker
 
-`3` definir un repo distant pour stocker le projet
+:three: definir un repo distant pour stocker le projet
 
 ### Créer un repo git :
 
-`1` New project -> blank project  
+:one: New project -> blank project  
 
-`2` donner un nom en rapport avec le projot 
+:two: donner un nom en rapport avec le projot 
 
-`3` choisir l'organisation dans project url
+:three: choisir l'organisation dans project url
 
-`4` mettre en privé ou en public 
+:four: mettre en privé ou en public 
 
-`5` clone -> copy url HTTPS aller dans find remote et coller l'url -> Push
+:five: clone -> copy url HTTPS aller dans find remote et coller l'url -> Push
 .

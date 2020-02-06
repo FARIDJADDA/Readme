@@ -12,16 +12,16 @@ C'est un fichier que nous allons crée afin d'enlever les fichiers dans gitlab q
 
 # Comment faire un gitignore 
 
-`1.`: créer un fichier .gitignore à la racine
+:one: : créer un fichier .gitignore à la racine
 
-`2`:  entrer le dossier ou fichier qu'on ne veut pas dans .gitignore
+:two: :  entrer le dossier ou fichier qu'on ne veut pas dans .gitignore
 
 ## Comment faire si un fichier s'ajoute quand meme :
 
-`1` : on fait un git rm dans le terminal
+:one: : on fait un git rm dans le terminal
 (!! dossier est supprimé definitivement )
 
-`2` : -> dans le terminal -> git rm -rf .idea
+:two: : -> dans le terminal -> git rm -rf .idea
 
-`3` : une fois tout supprimé -> Commit and push
+:three: : une fois tout supprimé -> Commit and push
 
