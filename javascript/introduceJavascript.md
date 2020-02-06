@@ -2,11 +2,13 @@
 
 :one: crée fichier javaScript <br>
 
-index.html -> ( recherche google : ''html javascript link file'' )_
+:two:  allez sur google et taper : 'html javascript link file'
 
-`<script src="index.js"></script>.` <br>
+:arrow_right: `<script src="index.js"></script>.` <br>
 
-:two: mettre le code source dans head <br>
+:three: mettre le code source dans head <br>
 
-`<head><script src="myscripts.js"></script> </head>`
+:arrow_right: ```<head>
+                    <script src="myscripts.js"></script> 
+                 </head> ```
  
