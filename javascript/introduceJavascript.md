@@ -8,7 +8,6 @@
 `<script src="index.js"></script>.`
 
 + mettre le code source dans head
-
 `<head><script src="myscripts.js"></script> </head>`
 
 + coucou affiché dans la console du navigateur.
