@@ -38,4 +38,5 @@ _Console.log = (40)_
 
 number1 = 30
 Console.log(number1+number2);
-_Console.log = (55)_ ;
+Console.log = (55) ;
+```
