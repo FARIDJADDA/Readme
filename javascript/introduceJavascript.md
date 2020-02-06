@@ -7,7 +7,7 @@
 +  -> index.html -> ( recherche google : ''html javascript link file'' )  
 `<script src="index.js"></script>.`
 
-+ mettre le code source dans head </br>
++ mettre le code source dans head <br>
 `<head><script src="myscripts.js"></script> </head>`
 
 + coucou affiché dans la console du navigateur.
