@@ -14,7 +14,7 @@ Cette classe ajuste l'alignement vertical et l'espacement horizontal pour les ch
 
 ![Screenshot](nav.png)
 
-`code:` :speech_balloon:
+code :+1:
 
 ```
 <nav class="navbar navbar-light bg-light">
@@ -31,7 +31,7 @@ vous pouvez envelopper une barre de navigation dans un .<br/>
 container pour la centrer sur une page ou en ajouter une à <br/>
 l'intérieur pour ne centrer que le contenu d'une barre de navigation supérieure fixe ou statique ._
 
-`code` :
+code :+1:
 
 ```
 <div class="container">
