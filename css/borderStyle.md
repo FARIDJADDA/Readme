@@ -26,7 +26,7 @@ _Démonstration des différents styles de bordure:_
 
 Démonstration des différents styles de bordure: :thumbsup:
 
-````CSS
+````css
 p.dotted {
     border-style: dotted;
 }
