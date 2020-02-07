@@ -38,9 +38,9 @@ Les propriétés `overflow-x` et `overflow-y`spécifient s'il faut modifier le d
 
 ### Exemple :speech_balloon:
 
-```
+````css
 div {
   overflow-x: hidden; /* Hide horizontal scrollbar */
   overflow-y: scroll; /* Add vertical scrollbar */
 }
-```
+````
