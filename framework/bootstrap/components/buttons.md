@@ -15,7 +15,7 @@ chacun servant son propre objectif sémantique,<br/>
 avec quelques extras ajoutés pour plus de contrôle.
 
         
-```
+````html
 <button type="button" class="btn btn-primary">Primary</button>
 
 <button type="button" class="btn btn-secondary">Secondary</button>
@@ -33,4 +33,4 @@ avec quelques extras ajoutés pour plus de contrôle.
 <button type="button" class="btn btn-dark">Dark</button>
 
 <button type="button" class="btn btn-link">Link</button>
-```
+````

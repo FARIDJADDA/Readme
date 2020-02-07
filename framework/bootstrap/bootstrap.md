@@ -35,14 +35,14 @@ puis add un style
 
 ### Exemple: :speech_balloon:
 
-```
+````css
 .numbers {
     text-align: center ;
 }
-```
+````
 
 :anger: important !!<strong> ne pas oublier de mettre la ref :</strong>
 
-```
+````html
 <link rel="stylesheet" href="../assets/style.css">
-```
+````

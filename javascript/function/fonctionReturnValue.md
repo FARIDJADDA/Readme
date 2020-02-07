@@ -7,7 +7,7 @@ _Une fonction renvoie toujours quelque chose_
 
 ### Exemple : :speech_balloon:
 
-```
+````js
 const number1 = 50
 const number2 = 30
 
@@ -22,4 +22,4 @@ const result2 = soustraction (x,y);
 
 console.log(result);
 console.log(result2);
-```
+````

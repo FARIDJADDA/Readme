@@ -9,9 +9,10 @@
 :three: mettre le code source dans head <br>
 
 :arrow_down:
-```
+
+````js
 <head>
   <script src="myscripts.js"></script> 
 </head> 
-```
+````
  

@@ -12,9 +12,11 @@ et 8 colones sur 12 pour le content
 
 ### Exemple :
 
-    <div class="col-4 menu"> </div>
+````html
+<div class="col-4 menu"> </div>
 
-    <div class="col-8 content"> </div>
+<div class="col-8 content"> </div>
+````
 
 ### offset 
 

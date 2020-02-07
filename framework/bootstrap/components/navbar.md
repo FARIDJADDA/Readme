@@ -16,13 +16,13 @@ Cette classe ajuste l'alignement vertical et l'espacement horizontal pour les ch
 
 code :+1:
 
-```
+````html
 <nav class="navbar navbar-light bg-light">
   <span class="navbar-text">
     Navbar text with an inline element
   </span>
 </nav>
-```
+````
 
 ## Conteneurs
 
@@ -33,10 +33,10 @@ l'intérieur pour ne centrer que le contenu d'une barre de navigation supérieur
 
 code :+1:
 
-```
+````html
 <div class="container">
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="#">Navbar</a>
   </nav>
 </div>
-```
+````

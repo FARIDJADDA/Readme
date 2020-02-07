@@ -10,11 +10,11 @@ chercher la fonction  `queryselector` (selectionner la requete) `'h1'`
 __Code JS :__ :thumbsup:
 
 
-```
+````js
 const title = document.querySelector('h1');
 
 title.textContent = me.FirstName +' '+ me.LastName +' '+ me.Age ;
-```
+````
 
 >textContent _c'est le text affiché à l'interieur de la balise `h1`
 

@@ -17,7 +17,7 @@ un site internet d'un container classique et centré le contenu du site sera seu
 
  `html:`
  
-```
+````html
 
   <div class="container main">
      <div class="row content">
@@ -25,11 +25,11 @@ un site internet d'un container classique et centré le contenu du site sera seu
      </div>
  
  </div>
-```
+````
 
 `css:`
 
-```
+````css
 .main {
     background: ;
 }
@@ -37,17 +37,17 @@ un site internet d'un container classique et centré le contenu du site sera seu
 .content {
     height: ...px;
 }
-``` 
+```` 
 
 ### container fluid  :thumbsup:
  
 `html:`
  
- ```
+ ````html
  <div class="container-fluid main">
      <div class="row content">
          <div class="col"> coucou </div>
      </div>
  </div>
 
-```
+````

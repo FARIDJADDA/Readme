@@ -8,7 +8,7 @@ _les objets regroupent un ensemble de variable <strong>simplification </strong>_
 
 ###### fiche identité: _créer un objet_
 
-``` 
+````js 
 const firstName = 'farid';
 const lastName = 'djadda';
 const age = 28;
@@ -19,7 +19,7 @@ const me {
     lastName: 'Djadda',
     age: 28,
 };
-``` 
+```` 
 
 >= (assignation)
 >=== (comparer) 
