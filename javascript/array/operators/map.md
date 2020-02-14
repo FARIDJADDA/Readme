@@ -9,12 +9,9 @@ map() crée un nouveau tableau avec les résultats de l'appel d'une fonction fou
 ##### Demo: Array.map() :
 
 ````js
-
 const array1 = [1, 4, 9, 16];
 
-// pass a function to map
 const map1 = array1.map(x => x * 2);
 
 console.log(map1);
-
 ````
