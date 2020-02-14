@@ -1,23 +1,23 @@
 # lien des opérateurs : :paperclip:
 
-[filter](../operators/filter.md) </br>
++ [filter](../operators/filter.md) </br>
 
-[find](../operators/find.md) </br>
++ [find](../operators/find.md) </br>
 
-[foreach](../operators/foreach.md) </br>
++ [foreach](../operators/foreach.md) </br>
 
-[include](../operators/include.md) </br>
++ [include](../operators/include.md) </br>
 
-[map](../operators/map.md) </br>
++ [map](../operators/map.md) </br>
 
-[push](../operators/push.md) </br>
++ [push](../operators/push.md) </br>
 
-[reduce](../operators/reduce.md) </br>
++ [reduce](../operators/reduce.md) </br>
 
-[slice](../operators/slice.md) </br>
++ [slice](../operators/slice.md) </br>
 
-[some](../operators/some.md) </br>
++ [some](../operators/some.md) </br>
 
-[sort](../operators/sort.md) </br>
++ [sort](../operators/sort.md) </br>
 
-[splice](../operators/splice.md) </br>
++ [splice](../operators/splice.md) </br>
