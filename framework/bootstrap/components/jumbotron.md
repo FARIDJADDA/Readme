@@ -6,8 +6,7 @@ _Un composant léger et flexible qui peut éventuellement étendre toute la fen�
 
 
 
-
-`code` : :thumbsup:
+##### code: :thumbsup:
 
 ````html
 <div class="jumbotron">
@@ -21,7 +20,7 @@ _Un composant léger et flexible qui peut éventuellement étendre toute la fen�
 
 ### Jumbotron fluide
 
-`code` : :thumbsup:
+##### code : :thumbsup:
 
 ````html
 <div class="jumbotron jumbotron-fluid">

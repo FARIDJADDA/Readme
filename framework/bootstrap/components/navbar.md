@@ -31,7 +31,7 @@ nous pouvons envelopper une barre de navigation dans un .<br/>
 container pour la centrer sur une page ou en ajouter une à <br/>
 l'intérieur pour ne centrer que le contenu d'une barre de navigation supérieure fixe ou statique ._
 
-code :+1:
+##### code :+1:
 
 ````html
 <div class="container">

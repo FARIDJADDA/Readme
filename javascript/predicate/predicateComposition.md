@@ -2,7 +2,9 @@
 
 _c'est quand on combine +sieur predicat ensemble_
 
-### Exemple: _pour savoir si la personne est une femme ou un homme et si elle est mineur ou majeur_
+### Exemple: :speech_balloon:
+ 
+ _pour savoir si la personne est une femme ou un homme et si elle est mineur ou majeur_
 
 
 ````js
