@@ -1,3 +1,5 @@
+[linkOperators](../link/linkOperators.md)
+
 # slice() :
  
 _`slice()` renvoie un objet tableau, </br>

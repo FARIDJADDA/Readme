@@ -1,3 +1,5 @@
+
+
 # reduce() :
 
 _`reduce()` applique une fonction qui est un « accumulateur » et qui traite chaque valeur d'une liste (de la gauche vers la droite) afin de la réduire à une seule valeur._
