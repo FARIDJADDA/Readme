@@ -12,7 +12,7 @@ console.log(clothing.length);
 
 # Definition de l'index d'un tableau :
 
-_l'index est la position d'un element dans le tableau ,les index commence toujours pas 0_
+_l'index est la position d'un element dans le tableau ,les index commencent toujours par 0_
 
 ###### Exemple :
 
