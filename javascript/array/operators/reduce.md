@@ -20,6 +20,6 @@ console.log(array1.reduce(reducer, 5));
       arr.reduce(callback)
       arr.reduce(callback, valeurInitiale)
       
-_ C'est une fonction callback_
+_C'est une fonction callback_
 
   
