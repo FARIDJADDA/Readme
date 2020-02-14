@@ -3,7 +3,7 @@
 Poser une question à un internaute 
 recherche google : `js prompt` 
 
-`Fonction : prompt("Please enter your name", "Harry Potter");`
+Fonction : `prompt("Please enter your name", "Harry Potter");`
 
 
 
