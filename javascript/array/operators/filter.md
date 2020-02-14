@@ -1,4 +1,4 @@
-[linkOperators](../link/linkOperators.md)
+:paperclip: [linkOperators](../link/linkOperators.md)
 
 
 # filter :
