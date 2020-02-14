@@ -4,9 +4,8 @@ Un Array est un tableau, son symbol est []
 _quand on a plusieurs données a traiter on les stock dans un tableau ._
 
 ###### Exemple : 
-````css
-
-const = hotel 
+````js
+const = id1 
     {
         name: 'hotel rose',
         roomNumbers: 10,
@@ -21,9 +20,7 @@ const = id2
         pool: false,
 
             };
-````
 
-````js
 const tab = [id1, id2];
 console.log(tab);
 ````
