@@ -5,19 +5,22 @@ _quand on a plusieurs données a traiter on les stock dans un tableau ._
 
 ###### Exemple : 
 ````css
-{
-const id1,
+
+const = hotel 
+    {
         name: 'hotel rose',
         roomNumbers: 10,
         pool: true,
-        rooms: [
-            {
-const id2,
+
+            },
+
+const = id2
+    {
         name: 'hotel ocean',
         roomNumbers: 15,
         pool: false,
-        rooms: [
-            {
+
+            };
 ````
 
 ````js
