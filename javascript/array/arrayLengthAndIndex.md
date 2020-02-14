@@ -1,4 +1,4 @@
-#Array length :
+# Array length :
 
 La propriété length indique le nombre d'éléments présents dans le tableau. Elle est toujours supérieure au plus grand indice du tableau.
 
