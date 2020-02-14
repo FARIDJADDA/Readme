@@ -5,7 +5,9 @@ _les prédicats = true or false_
 ### Exemple :speech_balloon:
 
 
-##### fiche identité: _créer un objet_
+##### fiche identité: 
+
+_créer un objet_
  
 ````js 
 const firstName = 'farid';
