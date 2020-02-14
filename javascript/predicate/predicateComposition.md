@@ -1,8 +1,3 @@
-
->_Camel Case = IsMajor ( le fait de mettre une majuscule au début de chaque mot )_<br>
-&& = And (informatique)<br>
-||  = Or (informatique)
-
 # Qu'est'ce qu'une composition de predicat :
 
 _c'est quand on combine +sieur predicat ensemble_
@@ -16,3 +11,9 @@ console.log ( IsMaleOrIsFemaleAndIsMajor);
 ````
 
 _l'ordinateur va d'abord examiner la première parenthèse puis la comparer à la deuxième pour donner une réponse ._
+
+##### NaB :
+
+>_Camel Case = IsMajor ( le fait de mettre une majuscule au début de chaque mot )_<br>
+&& = And (informatique)<br>
+||  = Or (informatique)
