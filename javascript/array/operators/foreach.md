@@ -3,7 +3,7 @@
 `forEach()` _permet d'exécuter une fonction donnée sur chaque élément du tableau._
 
 
-#### Synthaxe : 
+#### Synthaxe : :leftwards_arrow_with_hook:
 
 `arr.forEach(callback);` c'est une fonction callback .
 

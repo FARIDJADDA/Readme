@@ -12,7 +12,7 @@ const result = words.filter(word => word.length > 6);
 console.log(result);
 ````
 
-## Valeur de retour
+## Valeur de retour :leftwards_arrow_with_hook:
 
 _Un nouveau tableau contenant les éléments qui respectent la condition du filtre. </br>
 Si aucun élément ne respecte la condition, </br>

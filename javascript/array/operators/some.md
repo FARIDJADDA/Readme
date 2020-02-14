@@ -13,7 +13,7 @@ console.log(array.some(even));
 // expected output: true
 ````
 
-##### Syntaxe :
+##### Syntaxe : 
 
       arr.some(callback[, objetThis])
       

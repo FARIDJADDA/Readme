@@ -15,7 +15,7 @@ console.log(array1.reduce(reducer));
 console.log(array1.reduce(reducer, 5));
 ````
 
-##### Syntaxe :
+##### Syntaxe : :leftwards_arrow_with_hook:
 
       arr.reduce(callback)
       arr.reduce(callback, valeurInitiale)

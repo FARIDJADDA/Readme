@@ -3,7 +3,7 @@
 map() crée un nouveau tableau avec les résultats de l'appel d'une fonction fournie sur chaque élément du tableau appelant.
 :anger: il y a toujours un `return` dans map() . 
 
-#### Syntaxe :
+#### Syntaxe : :leftwards_arrow_with_hook:
 
 `var nouveauTableau = arr.map(callback [, thisArg])` c'est une fonction callback.
 
