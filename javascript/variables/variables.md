@@ -28,7 +28,7 @@ Console.log(number1+number2);
               const               /           number            /                 =<br>
 une varibla n'est déclaré qu'une seule fois ,puis on peu par la suite lui assigner une nouvelle valeure</strong></em>
 
-# Exemple :
+# Exemple : :speech_balloon:
 
 ```
 Var number1 = 15;
