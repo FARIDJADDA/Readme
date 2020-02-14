@@ -13,7 +13,7 @@ console.log(found);
 // expected output: 12
 ````
 
-##### Syntaxe :
+##### Syntaxe : :leftwards_arrow_with_hook:
 
       arr.find(callback(element[, index[, tableau]])[, thisArg])
   
