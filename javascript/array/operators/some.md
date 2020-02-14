@@ -1,3 +1,6 @@
+[linkOperators](../link/linkOperators.md)
+
+
 # .some() :
 
 _`some()` teste si au moins un élément du tableau passe le test implémenté par la fonction fournie. Elle renvoie un booléen indiquant le résultat du test._

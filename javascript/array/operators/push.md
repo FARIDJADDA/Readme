@@ -1,3 +1,6 @@
+[linkOperators](../link/linkOperators.md)
+
+
 # Push() :
 
 _`Push()` ajoute un ou plusieurs éléments à la fin d'un tableau et retourne la nouvelle taille du tableau._

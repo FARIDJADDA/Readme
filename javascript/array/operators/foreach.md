@@ -1,3 +1,6 @@
+[linkOperators](../link/linkOperators.md)
+
+
 # Foreach :
 
 `forEach()` _permet d'exécuter une fonction donnée sur chaque élément du tableau._

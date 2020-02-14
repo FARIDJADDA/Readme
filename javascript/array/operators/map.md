@@ -1,3 +1,6 @@
+[linkOperators](../link/linkOperators.md)
+
+
 # Map :
 
 `map()` crée un nouveau tableau avec les résultats de l'appel d'une fonction fournie sur chaque élément du tableau appelant.

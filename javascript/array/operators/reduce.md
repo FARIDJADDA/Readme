@@ -1,3 +1,4 @@
+[linkOperators](../link/linkOperators.md)
 
 
 # reduce() :

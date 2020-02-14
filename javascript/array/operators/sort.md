@@ -1,3 +1,6 @@
+[linkOperators](../link/linkOperators.md)
+
+
 # Sort() :
 
 `sort()` trie les éléments d'un tableau, </br>
