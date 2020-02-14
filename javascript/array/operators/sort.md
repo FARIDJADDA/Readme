@@ -17,6 +17,7 @@ _C'est une fonction de comparaison_
 ##### Demo: Array.sort()
 
 ````js
+
 const months = ['March', 'Jan', 'Feb', 'Dec'];
 
 months.sort();
@@ -28,6 +29,7 @@ const array1 = [1, 30, 4, 21, 100000];
 array1.sort();
 
 console.log(array1);
+
 ````
 
       ​
