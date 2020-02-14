@@ -17,7 +17,7 @@ console.log(animals.slice(2, 4));
 console.log(animals.slice(1, 5));
 ````
 
-####### Syntaxe :
+###### Syntaxe :
 
         arr.slice()
         arr.slice(début)
