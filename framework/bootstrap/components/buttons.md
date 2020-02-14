@@ -6,7 +6,7 @@ etc. <br/>
 avec prise en charge de plusieurs tailles,<br/> 
 états et plus encore.
 
-![img](buttons.png)
+![im](/img/buttons.png)
 
 ### Exemples :speech_balloon:
 
