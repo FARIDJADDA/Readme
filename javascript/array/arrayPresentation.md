@@ -19,10 +19,8 @@ const id2,
         rooms: [
             {
 ````
-````javascript
 
-
+````js
 const tab = [id1, id2];
 console.log(tab);
-
 ````
