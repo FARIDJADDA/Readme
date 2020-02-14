@@ -12,6 +12,6 @@
 
 + **NaN** : une operation avec un nombre qui donne un texte .
 
-#######NaB:
+###### NaB:
 
 _escape character    \    (   ' je m \ 'apelle fa ' )_
