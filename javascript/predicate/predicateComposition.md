@@ -7,8 +7,8 @@
 
 _c'est quand on combine +sieur predicat ensemble_
 
-### Exemple: `pour savoir si la personne est une femme ou un homme et si elle est mineur ou majeur
-`
+### Exemple: _pour savoir si la personne est une femme ou un homme et si elle est mineur ou majeur_
+
 
 ````js
 const IsMaleOrIsFemaleAndIsMajorAndIsMinor = (IsFemale || IsMale) && (IsMajor && IsMinor) ;

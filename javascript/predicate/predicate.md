@@ -5,7 +5,7 @@ _les prédicats = true or false_
 ### Exemple :speech_balloon:
 
 
-`fiche identité:`_créer un objet_
+##### fiche identité: _créer un objet_
  
 ````js 
 const firstName = 'farid';
@@ -14,7 +14,7 @@ const age = 28;
 const adress = '6 rue huntziger';
 ````
 
-`Savoir si quelqu'un est majeur`
+_Savoir si quelqu'un est majeur_ :
 
 ````js
 const IsMajor =  me.age >=18 ; 

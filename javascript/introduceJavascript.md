@@ -10,7 +10,7 @@
 
 :arrow_down:
 
-````js
+````html
 <head>
   <script src="myscripts.js"></script> 
 </head> 

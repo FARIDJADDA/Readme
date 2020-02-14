@@ -8,17 +8,19 @@ _les objets regroupent un ensemble de variable <strong>simplification </strong>_
 
 ###### fiche identité: _créer un objet_
 
-````js 
+````js
+ 
 const firstName = 'farid';
 const lastName = 'djadda';
 const age = 28;
 const adress = '6 rue huntziger'
 
-const me {
+const me = {
     fristName: 'Farid', 
     lastName: 'Djadda',
     age: 28,
 };
+
 ```` 
 
 >= (assignation)

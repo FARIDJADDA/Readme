@@ -1,5 +1,3 @@
-_escape character    \    (   ' je m \ 'apelle fa ' ) 
-            
 # Les valeurs primitives :
 
 + **les strings** : succession de caractère qui se suive  ( 'mon texte' ) type texte 
@@ -15,4 +13,5 @@ _escape character    \    (   ' je m \ 'apelle fa ' )
 + **NaN** : une operation avec un nombre qui donne un texte .
 
 #######NaB:
+
 _escape character    \    (   ' je m \ 'apelle fa ' )_
