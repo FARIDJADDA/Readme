@@ -3,7 +3,7 @@
 _Quand il y a une valeure de return la fonction s'arrête_<br>
 _Une fonction renvoie toujours quelque chose_
 
-`mot clef:` return
+mot clef: `return`
 
 ### Exemple : :speech_balloon:
 
