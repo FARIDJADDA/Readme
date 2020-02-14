@@ -14,7 +14,7 @@ La complexité en espace mémoire et en temps utilisée pour le tri ne peut pas 
        
 _C'est une fonction de comparaison_
 
-##### Demo: Array.sort()
+##### Demo: Array.sort() : :speech_balloon:
 
 ````js
 

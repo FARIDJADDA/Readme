@@ -5,7 +5,7 @@ contenant une copie superficielle (shallow copy) d'une portion du tableau d'orig
 la portion est définie par un indice de début et un indice de fin (exclus). </br>
 Le tableau original ne sera pas modifié._
 
-#### Demo: Array.slice() :
+#### Demo: Array.slice() : :speech_balloon:
 
 ````js
 const animals = ['ant', 'bison', 'camel', 'duck', 'elephant'];

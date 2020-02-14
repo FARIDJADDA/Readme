@@ -7,7 +7,7 @@ map() crée un nouveau tableau avec les résultats de l'appel d'une fonction fou
 
 `var nouveauTableau = arr.map(callback [, thisArg])` c'est une fonction callback.
 
-##### Demo: Array.map() :
+##### Demo: Array.map() : :speech_balloon:
 
 ````js
 const array1 = [1, 4, 9, 16];

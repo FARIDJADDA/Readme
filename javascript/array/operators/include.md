@@ -3,7 +3,7 @@
 includes() permet de déterminer si un tableau contient une valeur et renvoie true si c'est le cas, false sinon.
 
 
-#### Demo: Array.includes()
+#### Demo: Array.includes() : :speech_balloon:
 
 ````js
 const array1 = [1, 2, 3];

@@ -2,7 +2,7 @@
 
 _reduce() applique une fonction qui est un « accumulateur » et qui traite chaque valeur d'une liste (de la gauche vers la droite) afin de la réduire à une seule valeur._
 
-#### Demo: Array.reduce() :
+#### Demo: Array.reduce() : :speech_balloon:
 
 ````js
 const array1 = [1, 2, 3, 4];

@@ -2,7 +2,7 @@
 
 filter() crée et retourne un nouveau tableau contenant tous les éléments du tableau d'origine qui remplissent une condition déterminée par la fonction callback.
 
-#### Demo: Array.filter() :
+#### Demo: Array.filter() : :speech_balloon:
 
 ````js
 const words = ['spray', 'limit', 'elite', 'exuberant', 'destruction', 'present'];

@@ -7,7 +7,7 @@
 
 `arr.forEach(callback);` c'est une fonction callback .
 
-###### Demo: Array.forEach() :
+###### Demo: Array.forEach() : :speech_balloon:
 
 ````js
 
