@@ -16,4 +16,4 @@ _l'index est la position d'un element dans le tableau ,les index commencent touj
 
 ###### Exemple :
 
-![img](array.png)
+![img](/img/array.png)

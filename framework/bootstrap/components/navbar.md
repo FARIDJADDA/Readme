@@ -12,7 +12,7 @@ _Les barres de navigation peuvent contenir des bits de texte à l'aide de .<br/>
 navbar-text. <br/>
 Cette classe ajuste l'alignement vertical et l'espacement horizontal pour les chaînes de texte._
 
-![Screenshot](nav.png)
+![Screenshot](/img/nav.png)
 
 code :+1:
 
