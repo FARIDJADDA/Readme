@@ -1,6 +1,6 @@
 # .some() :
 
-_some() teste si au moins un élément du tableau passe le test implémenté par la fonction fournie. Elle renvoie un booléen indiquant le résultat du test._
+_`some()` teste si au moins un élément du tableau passe le test implémenté par la fonction fournie. Elle renvoie un booléen indiquant le résultat du test._
 
 #### Demo: Array.some() : :speech_balloon:
 

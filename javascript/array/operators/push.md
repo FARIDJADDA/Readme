@@ -1,6 +1,6 @@
 # Push() :
 
-_Push() ajoute un ou plusieurs éléments à la fin d'un tableau et retourne la nouvelle taille du tableau._
+_`Push()` ajoute un ou plusieurs éléments à la fin d'un tableau et retourne la nouvelle taille du tableau._
 
 #### Demo: Array.push() : :speech_balloon:
 
