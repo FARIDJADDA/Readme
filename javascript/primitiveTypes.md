@@ -14,4 +14,4 @@
 
 ###### NaB :
 
-_escape character    \    (   ' je m \ 'apelle fa ' )_
+> _escape character    \    (   ' je m \ 'apelle fa ' )_
