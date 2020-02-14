@@ -1,4 +1,4 @@
-_escape character    \    (   ' je m \ 'apelle fa ' ) </strong></em>_
+_escape character    \    (   ' je m \ 'apelle fa ' ) 
             
 # Les valeurs primitives :
 
@@ -13,3 +13,6 @@ _escape character    \    (   ' je m \ 'apelle fa ' ) </strong></em>_
 + **undefined** : les choses qui n'existent pas .
 
 + **NaN** : une operation avec un nombre qui donne un texte .
+
+#######NaB:
+_escape character    \    (   ' je m \ 'apelle fa ' )_

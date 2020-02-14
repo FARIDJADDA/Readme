@@ -26,8 +26,8 @@ console.log (IsMajor);
 
 ````js
 const IsMajor =  me.age >=18 ; 
-const (isFarid) = me.firstName === 'Farid'
+const isFarid = me.firstName === 'Farid';
 
 console.log (IsMajor);
-console.log (isFarid);
+console.log (isFarid);;
 ````
