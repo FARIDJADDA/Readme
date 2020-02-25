@@ -2,7 +2,7 @@
 
 # splice() :
 
-`splice()` modifie le contenu d'un tableau en retirant des éléments et/ou </br>
+splice() modifie le contenu d'un tableau en retirant des éléments et/ou </br>
 en ajoutant de nouveaux éléments à même le tableau. </br>
 On peut ainsi vider ou remplacer une partie d'un tableau. 
 

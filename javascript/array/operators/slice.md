@@ -2,7 +2,7 @@
 
 # slice() :
  
-_`slice()` renvoie un objet tableau, </br>
+_slice() renvoie un objet tableau, </br>
 contenant une copie superficielle (shallow copy) d'une portion du tableau d'origine, </br> 
 la portion est définie par un indice de début et un indice de fin (exclus). </br>
 Le tableau original ne sera pas modifié._

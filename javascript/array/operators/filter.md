@@ -3,7 +3,7 @@
 
 # filter :
 
-`filter()` crée et retourne un nouveau tableau contenant tous les éléments du tableau d'origine qui remplissent une condition déterminée par la fonction callback.
+filter() crée et retourne un nouveau tableau contenant tous les éléments du tableau d'origine qui remplissent une condition déterminée par la fonction callback.
 
 #### Demo: Array.filter() : :speech_balloon:
 

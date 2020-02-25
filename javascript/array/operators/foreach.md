@@ -3,7 +3,7 @@
 
 # Foreach :
 
-`forEach()` _permet d'exécuter une fonction donnée sur chaque élément du tableau._
+forEach() _permet d'exécuter une fonction donnée sur chaque élément du tableau._
 
 
 #### Synthaxe : :leftwards_arrow_with_hook:

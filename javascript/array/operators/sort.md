@@ -2,7 +2,7 @@
 
 # Sort() :
 
-`sort()` trie les éléments d'un tableau, </br>
+sort() trie les éléments d'un tableau, </br>
 dans ce même tableau, </br>
 et renvoie le tableau. </br>
 Par défaut, le tri s'effectue sur les éléments du tableau convertis en chaînes de caractères et triées selon les valeurs des unités de code UTF-16 des caractères. </br>

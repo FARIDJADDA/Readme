@@ -3,7 +3,7 @@
 
 # find() : 
 
-`find()` renvoie la valeur du premier élément trouvé dans le tableau qui respecte la condition donnée par la fonction de test passée en argument. Sinon, la valeur undefined est renvoyée.
+_find() renvoie la valeur du premier élément trouvé dans le tableau qui respecte la condition donnée par la fonction de test passée en argument. Sinon, la valeur undefined est renvoyée._
 
 #### Demo: Array.find() : :speech_balloon:
 

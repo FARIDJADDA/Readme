@@ -2,7 +2,7 @@
 
 # includes() 
 
-`includes()` permet de déterminer si un tableau contient une valeur et renvoie true si c'est le cas, false sinon.
+_includes() permet de déterminer si un tableau contient une valeur et renvoie true si c'est le cas, false sinon._
 
 
 #### Demo: Array.includes() : :speech_balloon:
