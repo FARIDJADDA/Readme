@@ -1,6 +1,6 @@
 # Destructuration : 
 
-_La destructuration permet de reccuperer une variable dans un tableau pour leur donner un nom directement et d'y avoir accés facilement._
+_La destructuration permet de reccuperer des variables dans un tableau pour leur donner un nom directement et d'y avoir accés facilement._
 
 #### Demonstration :
 
