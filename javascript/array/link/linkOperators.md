@@ -21,3 +21,5 @@
 + [sort](../operators/sort.md) </br>
 
 + [splice](../operators/splice.md) </br>
+
++ [splice](../operators/every.md) </br>
