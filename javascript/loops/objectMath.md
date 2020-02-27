@@ -1,5 +1,13 @@
 - [Math.round()](#mathround-)
 
+- [Math.floor(x)](#mathfloorx-)
+
+- [toFixed](#tofixed-)
+
+- [parseFloat()](#parsefloat-)
+
+- [Math.random()](#mathrandom-)
+
 # Bibliothéque Math :
 
 _les outils mathématiques s'utilise à partir d'une bibliothéque que l'on appel Math._
