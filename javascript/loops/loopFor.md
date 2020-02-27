@@ -41,7 +41,7 @@ Une expression qui est évaluée à la fin de chaque itération. Cela se produit
 Une instruction qui est exécutée tant que la condition de la boucle est vérifiée. Afin d'exécuter plusieurs instructions au sein d'une telle boucle, il faudra utiliser une instruction de bloc ({ ... }) qui regroupera ces différentes instructions.
 
 
-# Exemples
+# Exemples :pencil2:
 
 ### Utiliser for :
 

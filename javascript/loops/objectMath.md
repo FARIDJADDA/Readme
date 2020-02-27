@@ -16,7 +16,7 @@ _les outils mathématiques s'utilise à partir d'une bibliothéque que l'on appe
 
 La fonction Math.round() retourne la valeur d'un nombre arrondi à l'entier le plus proche.
 
-### Demo: Math.round() :
+### Demo: Math.round() : :pencil2:
 
 ````js
 console.log(Math.round(0.9));
@@ -37,7 +37,7 @@ console.log(Math.round(-5.05), Math.round(-5.5), Math.round(-5.95));
 
 _La fonction Math.floor(x) renvoie le plus grand entier qui est inférieur ou égal à un nombre x._
 
-### Demo: Math.floor() :
+### Demo: Math.floor() : :pencil2:
 
 ````js
 console.log(Math.floor(5.95));
@@ -61,7 +61,7 @@ console.log(Math.floor(-5.05));
 
 _La méthode toFixed() permet de formater un nombre en notation à point-fixe._
 
-### Demo: Number.toFixed() :
+### Demo: Number.toFixed() : :pencil2:
 
 ````js
 function financial(x) {
@@ -89,7 +89,7 @@ console.log(financial('1.23e+5'));
 
 _La fonction parseFloat() permet de transformer une chaîne de caractères en un nombre flottant après avoir analysée celle-ci (parsing)._
  
-### Demo: Standard built-in objects - parseFloat() :
+### Demo: Standard built-in objects - parseFloat() : :pencil2:
 
 ````js
 function circumference(r) {
@@ -124,7 +124,7 @@ Un nombre flottant obtenu à partir de l'analyse de la chaîne de caractères. S
 
 _La fonction Math.random() renvoie un nombre flottant pseudo-aléatoire compris dans l'intervalle [0, 1[ (ce qui signifie que 0 est compris dans l'intervalle mais que 1 en est exclu) selon une distribution approximativement uniforme sur cet intervalle. Ce nombre peut ensuite être multiplié afin de couvrir un autre intervalle. La graine (seed) du générateur est choisie par l'algorithme et ne peut pas être choisie ou réinitialisée par l'utilisateur._
 
-### Demo: Math.random() :
+### Demo: Math.random() : :pencil2:
 
 ````js
 function getRandomInt(max) {
