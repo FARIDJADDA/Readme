@@ -1,4 +1,4 @@
-[Math.round()](#Math.round())
+[Math.round()](#math.round())
 
 # Bibliothéque Math :
 
