@@ -4,7 +4,7 @@
 
 _La méthode Object.values() renvoie un tableau contenant les valeurs des propriétés propres énumérables d'un objet dont l'ordre est le même que celui obtenu avec une boucle for...in (la boucle for-in est différente car elle parcourt également les propriétés héritées)._
 
-# Demo: Object.values() :
+# Demo: Object.values() : :pencil2:
 
 ````js
 const object1 = {
@@ -36,7 +36,7 @@ _Object.values() renvoie un tableau dont les éléments sont les valeurs des pro
 
 _La méthode Object.keys() renvoie un tableau contenant les noms des propriétés propres à un objet (qui ne sont pas héritées via la chaîne de prototypes) et qui sont énumérables. L'ordre de ce tableau est le même que celui obtenu par une boucle for...in (à la différence qu'une boucle for-in liste également les propriétés héritées)._
 
-# Demo: Object.keys() :
+# Demo: Object.keys() : :pencil2:
 
 ````js
 const object1 = {
