@@ -1,4 +1,3 @@
-## <strong><em>Seb</strong></em> _un petit effort avec la note :pray:_ :joy: :joy: :joy: :smiling_imp: :smiling_imp: :smiling_imp:
 
 # Style de bordure CSS
 
