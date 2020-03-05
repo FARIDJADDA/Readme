@@ -15,6 +15,8 @@ La méthode GET demande une représentation de la ressource spécifiée. Les req
 ````js
 app.get('/api/hostels/:id/rooms',
     (req, res) => {
+ const x = parseInt(req.params);
+    return res.send();
     }
 ````
 
@@ -24,6 +26,8 @@ La méthode POST est utilisée pour envoyer une entité vers la ressource indiqu
 ````js
 app.post('/api/hostels/:id/rooms',
     (req, res) => {
+  const x = req.body;
+        return res.send();
     }
 ````
 
@@ -33,6 +37,8 @@ La méthode PUT remplace toutes les représentations actuelles de la ressource v
 ````js
 app.put('/api/hostels/:id/rooms',
     (req, res) => {
+  const x = req.body;
+        return res.send(hostels);
     }
 ````
 
@@ -42,6 +48,8 @@ La méthode DELETE supprime la ressource indiquée.
 ````js
 app.delete('/api/hostels/:id/rooms',
     (req, res) => {
+ const x = parseInt(req.params);
+    return res.send();
     }
 ````
 
@@ -51,5 +59,7 @@ La méthode PATCH est utilisée pour appliquer des modifications partielles à u
 ````js
 app.patch('/api/hostels/:id/rooms',
     (req, res) => {
+  const x = req.body;
+        return res.send();
     }
 ````
